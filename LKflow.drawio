@@ -1,1 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T06:08:40.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="13.9.1" etag="NOJAMtM4TRSicC-i6PmQ" type="github"><diagram id="Xie-9tWe7YI_WEpgbt9P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-12T11:21:10.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="_boUKDRsEiH0m6vRUYYR" version="13.9.1" type="github">
+  <diagram id="Xie-9tWe7YI_WEpgbt9P" name="Page-1">
+    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-36" value="&lt;h1&gt;AuthForm.php&lt;/h1&gt;&lt;p&gt;Верстка формы входа&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-39" target="CW6_wdNh50GNIlfXM0S9-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="765" />
+              <mxPoint x="210" y="918" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-62" value="ajax" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CW6_wdNh50GNIlfXM0S9-59">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-39" value="&lt;h1&gt;AuthForm.js&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center&quot;&gt;loadPersonalRoom,&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;handlePersonalRoom:&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;грузит шапку и прикрепляет его к idConteiner&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="232" y="600" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-41" target="CW6_wdNh50GNIlfXM0S9-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-41" value="&lt;h1&gt;index.php&lt;/h1&gt;&lt;p&gt;Начало начал&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-42" target="CW6_wdNh50GNIlfXM0S9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-42" target="CW6_wdNh50GNIlfXM0S9-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-42" target="CW6_wdNh50GNIlfXM0S9-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="115" y="560" />
+              <mxPoint x="327" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-42" value="&lt;h1&gt;MainForm.php&lt;/h1&gt;&lt;p&gt;Плагины, загрузка формы входа&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="450" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-45" value="&lt;h1&gt;MainForm.js&lt;/h1&gt;&lt;p&gt;FavIcon???&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-49" target="CW6_wdNh50GNIlfXM0S9-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-49" target="CW6_wdNh50GNIlfXM0S9-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="945" />
+              <mxPoint x="210" y="1215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-49" value="&lt;h1&gt;forms.php&lt;/h1&gt;&lt;p style=&quot;text-align: center&quot;&gt;В зависимости от формы входа разный контент&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="232" y="890" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-51" target="CW6_wdNh50GNIlfXM0S9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-51" target="CW6_wdNh50GNIlfXM0S9-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1300" />
+              <mxPoint x="200" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-68" value="id кнопки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CW6_wdNh50GNIlfXM0S9-67">
+          <mxGeometry x="-0.1913" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-51" value="&lt;h1&gt;PCMain.php, PCMain.js&lt;/h1&gt;&lt;div&gt;Шапка, idStr&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Так же PCMain.js имеет метод LoadForm, вызывается при нажатии на кнопки разделов. Этот метод присобачивает к ContEiner то, что вернет forms.PC&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1040" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-64" value="&lt;h1&gt;header(&#39;Location: &#39;.$URL)&lt;/h1&gt;&lt;p&gt;Штука делает ссылку сайта&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-65" target="CW6_wdNh50GNIlfXM0S9-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-65" value="&lt;h1&gt;&lt;span&gt;formsPC.php&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;В зависимости от переданного id нажатой кнопки include_once .php файл раздела&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1420" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
