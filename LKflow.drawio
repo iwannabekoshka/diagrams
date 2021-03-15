@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T14:32:10.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NorDdjSZ3WhHKlrkl7M_" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T11:03:23.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="3rJwJYIYsHgtdZN6szBQ" version="14.4.7" type="github">
   <diagram id="Xie-9tWe7YI_WEpgbt9P" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,13 +21,13 @@
         <mxCell id="CW6_wdNh50GNIlfXM0S9-39" value="&lt;h1&gt;AuthForm.js, AuthForm.php&lt;/h1&gt;&lt;p&gt;Верстка формы входа.&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center&quot;&gt;loadPersonalRoom,&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;handlePersonalRoom:&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;грузит шапку и прикрепляет его к idConteiner&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="540" y="150" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="EqqO_55n0Yaofc_s7Z8x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-41" target="CW6_wdNh50GNIlfXM0S9-42">
+        <mxCell id="EqqO_55n0Yaofc_s7Z8x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CW6_wdNh50GNIlfXM0S9-41" target="CW6_wdNh50GNIlfXM0S9-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CW6_wdNh50GNIlfXM0S9-41" value="&lt;h1&gt;index.php&lt;/h1&gt;&lt;p&gt;Начало начал&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="190" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EqqO_55n0Yaofc_s7Z8x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CW6_wdNh50GNIlfXM0S9-42" target="CW6_wdNh50GNIlfXM0S9-39">
+        <mxCell id="EqqO_55n0Yaofc_s7Z8x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CW6_wdNh50GNIlfXM0S9-42" target="CW6_wdNh50GNIlfXM0S9-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CW6_wdNh50GNIlfXM0S9-42" value="&lt;h1&gt;MainForm.php, MainForm.js&lt;/h1&gt;&lt;p&gt;Плагины, загрузка формы входа&lt;/p&gt;&lt;p&gt;FavIcon???&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
@@ -63,7 +63,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CW6_wdNh50GNIlfXM0S9-51" value="&lt;h1&gt;PCMain.php, PCMain.js&lt;/h1&gt;&lt;div&gt;Шапка, idStr&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Так же PCMain.js имеет метод LoadForm, вызывается при нажатии на кнопки разделов. Этот метод присобачивает к ContEiner то, что вернет forms.PC&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="CW6_wdNh50GNIlfXM0S9-51" value="&lt;h1&gt;PCMain.php, PCMain.js&lt;/h1&gt;&lt;div&gt;Шапка, сайдбар, idStr&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Так же PCMain.js имеет метод LoadForm, вызывается при нажатии на кнопки разделов. Этот метод присобачивает к контейнеру то, что вернет forms.PC&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="540" y="540" width="190" height="350" as="geometry" />
         </mxCell>
         <mxCell id="CW6_wdNh50GNIlfXM0S9-64" value="&lt;h1&gt;header(&#39;Location: &#39;.$URL)&lt;/h1&gt;&lt;p&gt;Штука делает ссылку сайта&lt;/p&gt;&lt;p&gt;(note: не смог редиректить на сторонние ресурсы, только на https://lk.tsu.tula.ru:3443/lktest/)&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -75,7 +75,7 @@
         <mxCell id="CW6_wdNh50GNIlfXM0S9-65" value="&lt;h1&gt;&lt;span&gt;formsPC.php&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;В зависимости от переданного id нажатой кнопки include_once .php файл раздела&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="540" y="920" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EqqO_55n0Yaofc_s7Z8x-5" value="&lt;h1&gt;include()&lt;/h1&gt;&lt;div&gt;Наш бро для поключения контента&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EqqO_55n0Yaofc_s7Z8x-5" value="&lt;h1&gt;include()&lt;/h1&gt;&lt;div&gt;Наш бро для поключения контента&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="850" y="140" width="300" height="80" as="geometry" />
         </mxCell>
       </root>
